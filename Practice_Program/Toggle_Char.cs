@@ -47,7 +47,6 @@ namespace Practice_Program
             }
             return arr;
         }
-
         static char[] Change_case2(char[] arr)
         {
             for (int i = 0; i < arr.Length; i++)
