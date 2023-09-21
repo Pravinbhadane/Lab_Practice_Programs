@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practice_Program
 {
-    internal class Jissa4
+    internal class Jisa4
     {
         static void Main(string[] args)
         {
